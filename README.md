@@ -144,7 +144,7 @@ Use ATQA and SAK values to identify common cards:
 
 ## Getting Started
 
-**Clone the repository or download manually**  
+**Clone the repository or download it manually**  
 ```bash
-git clone https://github.com/Regulus98/MFRC522_Driver.git
-cd MFRC522_Driver
+git clone https://github.com/Regulus98/MFRC522/examples/MFRC522_Driver.zip
+cd MFRC522_Driver.zip
